@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requirement-specification>
+<req_spec title="Requirement no.1"  doc_id="R1"  >
+	<revision><![CDATA[1]]></revision>
+	<type><![CDATA[1]]></type>
+	<node_order><![CDATA[1]]></node_order>
+	<total_req><![CDATA[0]]></total_req>
+	<scope><![CDATA[<p>This is Requirement no.1</p>]]></scope>
+		</req_spec>
+</requirement-specification>
